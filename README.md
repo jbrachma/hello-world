@@ -1,5 +1,5 @@
 # hello-world
 
-// CSE 360 Hello World Git Hub Demo
+CSE 360 Hello World Git Hub Demo
 
-//Jack Brachman
+Jack Brachman
